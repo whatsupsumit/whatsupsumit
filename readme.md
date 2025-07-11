@@ -55,32 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/yourusername)
     </tr>
   </table>
   
-  <h2>Active Projects</h2>
-  <div>
-    <a href="https://github.com/your-github-username/SumoArts">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=SumoArts&theme=gotham&title_color=ff69b4&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/your-github-username/RentEase">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=RentEase&theme=gotham&title_color=ff69b4&bg_color=0D1117" />
-    </a>
-  </div>
+  
 
-  <h2>Connect</h2>
-  <div>
-    <a href="#">
-      <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff69b4" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/-Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=ff69b4" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff69b4" />
-    </a>
-  </div>
-
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,15,20,25,30&height=150&section=footer" />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4&style=for-the-badge&label=VIEWS" />
-  </p>
-</div>
+  
