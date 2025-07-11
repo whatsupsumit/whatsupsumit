@@ -1,60 +1,35 @@
 <div align="center">
-<div align="center">
-  <!-- Cyberpunk header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,25,30&height=180&section=header&text=SUMIT%20KUMAR&fontSize=45&fontColor=FF6B6B&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Lofi%20Dev%20%7C%20Dreamer&descAlignY=55&descAlign=50" alt="Sumit Kumar - Frontend Developer | Lofi Dev | Dreamer" />
+  <!-- Cyberpunk Neon Header -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,12,18,33&height=200&section=header&text=SUMIT%20KUMAR&fontSize=50&fontColor=ff1493&animation=blinking&fontAlignY=45&desc=『%20Frontend%20Sorcerer%20%7C%20Code%20Architect%20%7C%20Digital%20Dreamer%20』&descAlignY=65&descAlign=50&descSize=16" alt="Sumit Kumar Header" />
 </div>
 
-# Hello, I'm Sumit Kumar 👋
-
-## 👨‍💻 About Me
-I am a frontend developer passionate about building cyberpunk-themed web applications. I blend creative design with clean code to create neon pink interfaces and enjoy listening to Lofi beats while coding.  
-- 🎯 I specialize in React and Next.js for building modern, responsive user interfaces.  
-- 🌙 I love experimenting with neon pink and purple color schemes and working on projects late into the night.  
-
-## ⚡ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,css,tailwind,docker,aws&theme=dark&perline=9" alt="Tech Stack" />
+  
+  <!-- Matrix-style typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=ff1493&background=000000&center=true&vCenter=true&width=600&height=100&lines=◉+INITIALIZING+NEURAL+LINK...;◉+LOADING+CYBERPUNK+PROTOCOL;◉+WELCOME+TO+THE+MATRIX;◉+LOFI+BEATS+%2B+NEON+CODE;◉+BUILDING+DIGITAL+REALITIES" alt="Matrix Typing" />
+
+  <!-- Status badges with neon glow effect -->
+  <div>
+    <img src="https://img.shields.io/badge/STATUS-◉%20ONLINE%20IN%20THE%20MATRIX-000000?style=for-the-badge&logo=matrix&logoColor=ff1493&labelColor=1a0033&color=330066" />
+    <img src="https://img.shields.io/badge/FUEL-☕%20COFFEE%20%2B%20🎧%20LOFI-000000?style=for-the-badge&logo=spotify&logoColor=9d4edd&labelColor=1a0033&color=240046" />
+    <img src="https://img.shields.io/badge/MODE-🌙%20NIGHT%20CODING-000000?style=for-the-badge&logo=github&logoColor=c77dff&labelColor=1a0033&color=3c096c" />
+  </div>
+  
+  <br/>
+  
+  <!-- Neon divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  
 </div>
 
-## 🚀 Projects
-- [**SumoArts**](https://github.com/yourusername/SumoArts) – A digital art portfolio platform for artists.  
-- [**RentEase**](https://github.com/yourusername/RentEase) – A rental management web application with a sleek UI.  
-
-## 💬 Connect
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/yourusername) or [Twitter](https://twitter.com/yourusername), or drop me an email at [your.email@example.com](mailto:your.email@example.com). I'm always open to collaborations and new opportunities!  
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-FF6B6B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-FF6B6B?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,15,20,25,30&height=200&section=header&text=SUMIT%20KUMAR&fontSize=50&fontColor=ff69b4&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Builder%20%7C%20Dreamer&descAlignY=55&descAlign=50" />
-
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=9F7AEA&center=true&vCenter=true&width=450&lines=👋+Hello+World%2C+I'm+Sumit;🎧+Lofi+Beats+%2B+Clean+Code;🚀+Building+Digital+Dreams" alt="Typing SVG" />
-  </h1>
-
-  <div>
-    <img src="https://img.shields.io/badge/Status-Fueled%20by%20Coffee%20%26%20Lofi-1a1a1a?style=for-the-badge&logo=ko-fi&logoColor=ff69b4&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Code-Night%20Owl-1a1a1a?style=for-the-badge&logo=github&logoColor=9F7AEA&labelColor=0d1117" />
-  </div>
-
-  <h2>Tech Arsenal</h2>
-  <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,mongodb,flutter,docker,aws,tailwind,figma,redux&theme=dark&perline=11" />
-  </div>
-
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=9F7AEA" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=gotham&hide_border=true&background=0D1117&ring=ff69b4&fire=ff69b4&currStreakLabel=9F7AEA" />
-      </td>
-    </tr>
-  </table>
-  
-  
-
-  
+## 🔮 NEURAL PROFILE SCAN
+```yaml
+sumit_kumar:
+  role: "Frontend Wizard"
+  location: "Cyberpunk City 2077"
+  languages: ["JavaScript", "TypeScript", "Python", "Dart"]
+  frameworks: ["React", "Next.js", "Flutter", "Node.js"]
+  specialty: "Neon UI/UX • Dark Mode Enthusiast • Lofi Coding"
+  current_focus: "Building SumoArts Gallery Platform"
+  coding_soundtrack: "Lofi Hip Hop Radio 24/7"
+  favorite_time: "2:00 AM - 4:00 AM (Peak Creativity Hours)"
