@@ -44,8 +44,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/yourusername)
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,mongodb,flutter,docker,aws,tailwind,figma,redux&theme=dark&perline=11" />
   </div>
 
-  <img src="https://i.imgur.com/EsxR4fQ.gif" width="100%"/>
-
   <table align="center">
     <tr>
       <td>
