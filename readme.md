@@ -46,8 +46,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderjojo&show_icons=true&theme=radical&hide_border=true&icon_color=ff1493&title_color=ff1493&text_color=c77dff&bg_color=0d1117" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderjojo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=c77dff" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=radical&hide_border=true&icon_color=ff1493&title_color=ff1493&text_color=c77dff&bg_color=0d1117" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=c77dff" height="170em" />
 </div>
 
 ---
@@ -55,8 +55,8 @@
 ## 🌐 Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=ff1493" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=gmail&logoColor=c77dff" /></a>
+  <a href="https://linkedin.com/in/sumitkumarrrr"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=ff1493" /></a>
+  <a href="mailto:sksumitboss123@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=gmail&logoColor=c77dff" /></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=twitter&logoColor=9d4edd" /></a>
   <a href="https://discord.gg/yourusername"><img src="https://img.shields.io/badge/Discord-%23000000?style=for-the-badge&logo=discord&logoColor=ff1493" /></a>
 </div>
