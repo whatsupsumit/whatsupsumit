@@ -1,4 +1,32 @@
 <div align="center">
+<div align="center">
+  <!-- Cyberpunk header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,25,30&height=180&section=header&text=SUMIT%20KUMAR&fontSize=45&fontColor=FF6B6B&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Lofi%20Dev%20%7C%20Dreamer&descAlignY=55&descAlign=50" alt="Sumit Kumar - Frontend Developer | Lofi Dev | Dreamer" />
+</div>
+
+# Hello, I'm Sumit Kumar 👋
+
+## 👨‍💻 About Me
+I am a frontend developer passionate about building cyberpunk-themed web applications. I blend creative design with clean code to create neon pink interfaces and enjoy listening to Lofi beats while coding.  
+- 🎯 I specialize in React and Next.js for building modern, responsive user interfaces.  
+- 🌙 I love experimenting with neon pink and purple color schemes and working on projects late into the night.  
+
+## ⚡ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,css,tailwind,docker,aws&theme=dark&perline=9" alt="Tech Stack" />
+</div>
+
+## 🚀 Projects
+- [**SumoArts**](https://github.com/yourusername/SumoArts) – A digital art portfolio platform for artists.  
+- [**RentEase**](https://github.com/yourusername/RentEase) – A rental management web application with a sleek UI.  
+
+## 💬 Connect
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/yourusername) or [Twitter](https://twitter.com/yourusername), or drop me an email at [your.email@example.com](mailto:your.email@example.com). I'm always open to collaborations and new opportunities!  
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-FF6B6B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-FF6B6B?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,15,20,25,30&height=200&section=header&text=SUMIT%20KUMAR&fontSize=50&fontColor=ff69b4&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Builder%20%7C%20Dreamer&descAlignY=55&descAlign=50" />
 
