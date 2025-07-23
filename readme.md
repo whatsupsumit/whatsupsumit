@@ -81,11 +81,6 @@ A passionate developer focused on building beautiful, high-performance web appli
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=whatsupsumit&theme=tokyonight&hide_border=true&background=0d1117&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="Sumit's GitHub Streak" />
-  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
-</div>
-
 ### 🌐 Let’s Connect & Collaborate
 
 <div align="center">
