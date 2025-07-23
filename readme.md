@@ -1,58 +1,62 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF00FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Frontend+Alchemist+🧙‍♂️+%7C+Neon+Visionary;Crafting+Code+That+Feels+Like+Magic+🌠;Lofi+Beats+%2B+Midnight+Commits+%3D+Me+🌈)
+<img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF00FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Frontend+Alchemist+🧙‍♂️+%7C+Neon+Visionary;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
 
 </div>
 
----
-
-## ⚙️ Tech Arsenal — Tools I Love
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,flutter,docker,aws,figma,redux,firebase,git&theme=light&perline=9" />
+A passionate developer focused on building beautiful, high-performance web applications. I have a keen eye for UI/UX design and a commitment to creating intuitive, pixel-perfect user experiences by writing clean, scalable, and maintainable code.
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
+</div>
 
-## 🚀 Featured Projects – Designed to Shine
+### ⚙️ Tech Arsenal — Tools I Love
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,flutter,docker,aws,figma,redux,firebase,git&theme=dark&perline=7" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
+</div>
+
+### 🚀 Featured Projects – Designed to Shine
 
 <table>
 <tr>
-
-<td width="50%" align="center">
-
-### 🎨 SumoArts  
-[![View](https://img.shields.io/badge/SumoArts-Open--Source-%23ff00ff?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://github.com/whatsupsumit/SumoArts)
-
-> 🌈 Aesthetic Lofi Art Gallery  
-> 🔧 React + Next.js  
-> 🎨 Polaroid UI + Dark-first mode
-
+<td width="50%" valign="top">
+  <h3 align="center">🎨 SumoArts</h3>
+  <br />
+  <p align="center">An open-source, immersive art gallery built with Next.js and Tailwind CSS, featuring a dark-first, polaroid-style UI for discovering lofi-inspired digital art.</p>
+  <p align="center">
+    <a href="https://github.com/whatsupsumit/SumoArts" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Code-%23ff00ff?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://sumoarts.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-%239d4edd?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
 </td>
-
-<td width="50%" align="center">
-
-### 🏠 RentEase  
-[![View](https://img.shields.io/badge/RentEase-Rental--Flow-%239d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whatsupsumit/RentEase)
-
-> 🔁 Peer-to-Peer Rental Marketplace  
-> ⚡ Realtime Firebase | 💫 Cyberpunk UI  
-> 🌐 Next.js + Responsive Design
-
+<td width="50%" valign="top">
+  <h3 align="center">🏠 RentEase</h3>
+  <br />
+  <p align="center">A full-stack peer-to-peer rental marketplace leveraging Next.js and Firebase for real-time data synchronization. Designed with a responsive, modern UI to streamline the rental process.</p>
+  <p align="center">
+    <a href="https://github.com/whatsupsumit/RentEase" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Code-%23ff00ff?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </td>
-
 </tr>
 </table>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
 </div>
 
----
-
-## 📊 GitHub Stats – Built With Passion
+### 📊 GitHub Stats – Built With Passion
 
 <div align="center">
 
@@ -62,9 +66,11 @@
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
+</div>
 
-## 🌐 Let’s Connect & Collaborate
+### 🌐 Let’s Connect & Collaborate
 
 <div align="center">
 
@@ -77,22 +83,3 @@
 </a>
 
 </div>
-
----
-
-### **🧠 About Me: The Core Configuration**
-
-```yaml
-Sumit_Kumar:
-  role: "Frontend Alchemist 🧙‍♂️"
-  vibe: "Neon Dreams & Lofi Code"
-  mantra: "Design with purpose. Build with soul."
-  tech_passion:
-    - "React & Next.js: Building the future of the web."
-    - "TypeScript: Ensuring type-safe, maintainable code."
-    - "TailwindCSS: Unleashing design freedom."
-    - "Firebase: Powering seamless user experiences."
-  current_mission: "Elevating SumoArts to new heights 🚀"
-  ui_signature: "Mastery of dark mode, pursuit of pixel perfection."
-  energy_source: "Synthwave symphonies & the quiet hum of midnight commits 🌌."
-  personal_dev_credo: "Code until it ✨glows✨. Because every project deserves to shine."
