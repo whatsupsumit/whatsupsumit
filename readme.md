@@ -4,6 +4,14 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/whatsupsumit">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=55&section=header&text=Frontend%20Sorcerer&fontSize=28" alt="Waving Header" />
+  </a>
+</div>
+
+<div align="center">
+
 A passionate developer focused on building beautiful, high-performance web applications. I have a keen eye for UI/UX design and a commitment to creating intuitive, pixel-perfect user experiences by writing clean, scalable, and maintainable code.
 
 </div>
