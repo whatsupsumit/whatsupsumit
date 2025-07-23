@@ -1,11 +1,6 @@
-<!-- 🌌 Sumit's Neon Dev World | Code x Lofi x Dream -->
-
 <div align="center">
 
-<!-- Typing SVG GIF Fallback -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF00FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Frontend+Alchemist+🧙‍♂️+%7C+Neon+Visionary;Crafting+Code+That+Feels+Like+Magic+🌠;Lofi+Beats+%2B+Midnight+Commits+%3D+Me+🌈)
-
-
 
 </div>
 
@@ -30,22 +25,22 @@
 
 <td width="50%" align="center">
 
-### 🎨 SumoArts  
+### 🎨 SumoArts  
 [![View](https://img.shields.io/badge/SumoArts-Open--Source-%23ff00ff?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://github.com/whatsupsumit/SumoArts)
 
-> 🌈 Aesthetic Lofi Art Gallery  
-> 🔧 React + Next.js  
+> 🌈 Aesthetic Lofi Art Gallery  
+> 🔧 React + Next.js  
 > 🎨 Polaroid UI + Dark-first mode
 
 </td>
 
 <td width="50%" align="center">
 
-### 🏠 RentEase  
+### 🏠 RentEase  
 [![View](https://img.shields.io/badge/RentEase-Rental--Flow-%239d4edd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whatsupsumit/RentEase)
 
-> 🔁 Peer-to-Peer Rental Marketplace  
-> ⚡ Realtime Firebase | 💫 Cyberpunk UI  
+> 🔁 Peer-to-Peer Rental Marketplace  
+> ⚡ Realtime Firebase | 💫 Cyberpunk UI  
 > 🌐 Next.js + Responsive Design
 
 </td>
@@ -85,20 +80,19 @@
 
 ---
 
-## 🧠 About Me (In Dev Mode)
+### **🧠 About Me: The Core Configuration**
 
 ```yaml
 Sumit_Kumar:
-  role: Frontend Alchemist 🧙‍♂️
-  vibe: Neon Dreams + Lofi Code
-  philosophy: "Think Design. Build Vibes."
-  stack:
-    - React
-    - Next.js
-    - TypeScript
-    - TailwindCSS
-    - Firebase
-  currently_building: "SumoArts 🚀"
-  fav_ui_flavour: "Dark mode + Pixel perfection"
-  energy: "Synthwave & Midnight Tea ☕"
-  motto: "Code until it ✨glows✨"
+  role: "Frontend Alchemist 🧙‍♂️"
+  vibe: "Neon Dreams & Lofi Code"
+  mantra: "Design with purpose. Build with soul."
+  tech_passion:
+    - "React & Next.js: Building the future of the web."
+    - "TypeScript: Ensuring type-safe, maintainable code."
+    - "TailwindCSS: Unleashing design freedom."
+    - "Firebase: Powering seamless user experiences."
+  current_mission: "Elevating SumoArts to new heights 🚀"
+  ui_signature: "Mastery of dark mode, pursuit of pixel perfection."
+  energy_source: "Synthwave symphonies & the quiet hum of midnight commits 🌌."
+  personal_dev_credo: "Code until it ✨glows✨. Because every project deserves to shine."
