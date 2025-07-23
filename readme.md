@@ -67,15 +67,23 @@ A passionate developer focused on building beautiful, high-performance web appli
 ### 📊 GitHub Stats – Built With Passion
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=dark&hide_border=true&icon_color=663ab4&title_color=663ab4&text_color=f0f8ff&bg_color=0d1117" height="170em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=663ab4&text_color=f0f8ff" height="170em" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
+  <h3>📊 My GitHub Stats</h3>
+  <p><i>Continuously learning and growing one commit at a time!</i></p>
+  
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight&hide_border=true&icon_color=79ff97&title_color=79ff97&text_color=c9d1d9&bg_color=0d1117" alt="Sumit's GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9" alt="Sumit's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=whatsupsumit&theme=tokyonight&hide_border=true&background=0d1117&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="Sumit's GitHub Streak" />
+  
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
 </div>
 
 ### 🌐 Let’s Connect & Collaborate
