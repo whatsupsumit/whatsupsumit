@@ -68,9 +68,9 @@ A passionate developer focused on building beautiful, high-performance web appli
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=radical&hide_border=true&icon_color=ff00ff&title_color=ff00ff&text_color=c77dff&bg_color=0d1117" height="170em" />
+<img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=dark&hide_border=true&icon_color=663ab4&title_color=663ab4&text_color=f0f8ff&bg_color=0d1117" height="170em" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=c77dff" height="170em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=663ab4&text_color=f0f8ff" height="170em" />
 
 </div>
 
