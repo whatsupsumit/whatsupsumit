@@ -42,7 +42,7 @@ A passionate developer focused on building beautiful, high-performance web appli
     <a href="https://github.com/whatsupsumit/SumoArts" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-View%20Code-%23ff00ff?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://sumoarts.vercel.app/" target="_blank">
+    <a href="https://sumo-arts.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-%239d4edd?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
