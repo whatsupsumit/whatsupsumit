@@ -30,7 +30,7 @@ A passionate developer focused on building beautiful, high-performance web appli
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
 </div>
 
-### 🚀 Featured Projects – Designed to Shine
+### 🚀👌 Featured Projects – Designed to Shine
 
 <table>
 <tr>
