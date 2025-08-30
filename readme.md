@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF00FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Frontend+Alchemist+🧙‍♂️+%7C+Neon+Visionary;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF3131&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Frontend+Alchemist+🧙‍♂️+%7C+Neon+Visionary;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
   <a href="https://github.com/whatsupsumit">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=55&section=header&text=Frontend%20Sorcerer&fontSize=28" alt="Waving Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF3131&height=55&section=header&text=Frontend%20Sorcerer&fontColor=ffffff&fontSize=28" alt="Waving Header" />
   </a>
 </div>
 
@@ -40,10 +40,10 @@ A passionate developer focused on building beautiful, high-performance web appli
   <p align="center">An open-source, immersive art gallery built with Next.js and Tailwind CSS, featuring a dark-first, polaroid-style UI for discovering lofi-inspired digital art.</p>
   <p align="center">
     <a href="https://github.com/whatsupsumit/SumoArts" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Code-%23ff00ff?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-View%20Code-%23ff3131?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://sumo-arts.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-%239d4edd?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-%23000000?style=for-the-badge&logo=vercel&logoColor=ff3131" />
     </a>
   </p>
 </td>
@@ -53,7 +53,7 @@ A passionate developer focused on building beautiful, high-performance web appli
   <p align="center">A full-stack peer-to-peer rental marketplace leveraging Next.js and Firebase for real-time data synchronization. Designed with a responsive, modern UI to streamline the rental process.</p>
   <p align="center">
     <a href="https://github.com/whatsupsumit/RentEase" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Code-%23ff00ff?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-View%20Code-%23ff3131?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 </td>
@@ -74,22 +74,23 @@ A passionate developer focused on building beautiful, high-performance web appli
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight&hide_border=true&icon_color=79ff97&title_color=79ff97&text_color=c9d1d9&bg_color=0d1117" alt="Sumit's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff3131&title_color=ff3131&text_color=c9d1d9&bg_color=0d1117" alt="Sumit's GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9" alt="Sumit's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff3131&text_color=c9d1d9" alt="Sumit's Top Languages" />
       </td>
     </tr>
   </table>
+
 ### 🌐 Let’s Connect & Collaborate
 
 <div align="center">
 
 <a href="https://linkedin.com/in/sumitkumarrrr">
-<img src="https://img.shields.io/badge/LinkedIn-Neon-%23000000?style=for-the-badge&logo=linkedin&logoColor=ff00ff" />
+<img src="https://img.shields.io/badge/LinkedIn-Red+Black-%23000000?style=for-the-badge&logo=linkedin&logoColor=ff3131" />
 </a>
 
 <a href="mailto:sksumitboss123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Via+NeonMail-%23000000?style=for-the-badge&logo=gmail&logoColor=c77dff" />
+<img src="https://img.shields.io/badge/Email-Via+RedMail-%23000000?style=for-the-badge&logo=gmail&logoColor=ff3131" />
 </a>
 </div>
