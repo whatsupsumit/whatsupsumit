@@ -16,19 +16,12 @@ A passionate developer focused on building beautiful, high-performance web appli
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
-</div>
-
 ### ⚙️ Tech Arsenal — Tools I Love
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,flutter,docker,aws,figma,redux,firebase,git&theme=dark&perline=7" />
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
-</div>
 
 ### 🚀👌 Featured Projects – Designed to Shine
 
