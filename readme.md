@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF3131&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Frontend+Alchemist+🧙‍♂️+%7C+Neon+Visionary;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
 
-
-
-
-
 </div>
 
 <div align="center">
@@ -60,12 +56,10 @@
 </table>
 
 ### 📊 GitHub Stats – Built With Passion
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
   <h3>📊 My GitHub Stats</h3>
   <p><i>Continuously learning and growing one commit at a time!</i></p>
-  
   <table>
     <tr>
       <td valign="top">
