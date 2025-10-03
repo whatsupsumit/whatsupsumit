@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=00FF00,FF3131&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Frontend+Alchemist+🧙‍♂️+%7C+Neon+Visionary;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF3131&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Frontend+Alchemist+🧙‍♂️+%7C+Neon+Visionary;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
+
+
+
+
 
 </div>
 
 <div align="center">
   <a href="https://github.com/whatsupsumit">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF3131,100:00FF00&height=55&section=header&text=Frontend%20Sorcerer&fontColor=ffffff&fontSize=28" alt="Waving Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF3131,100:A020F0&height=55&section=header&text=Frontend%20Sorcerer&fontColor=ffffff&fontSize=28" alt="Waving Header" />
   </a>
 </div>
 
 <div align="center">
-A passionate developer focused on building beautiful, high-performance web applications. I have a keen eye for UI/UX design and a commitment to creating intuitive, pixel-perfect user experiences by writing clean, scalable, and maintainable code.
+"A defeat when you weren't at your best doesn't count. That was just an unfair fight."  -Mr Sumo 
 </div>
 
 ---
@@ -33,10 +37,10 @@ A passionate developer focused on building beautiful, high-performance web appli
   <p align="center">A community support platform built to connect people and provide mutual aid through a seamless, user-friendly interface. Powered by modern web technologies.</p>
   <p align="center">
     <a href="https://github.com/whatsupsumit/HelpHive" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Code-00FF00?style=for-the-badge&logo=github&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/GitHub-View%20Code-FF3131?style=for-the-badge&logo=github&logoColor=A020F0" />
     </a>
     <a href="https://helphiive.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-FF3131?style=for-the-badge&logo=vercel&logoColor=00FF00" />
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-A020F0?style=for-the-badge&logo=vercel&logoColor=FF3131" />
     </a>
   </p>
 </td>
@@ -45,10 +49,10 @@ A passionate developer focused on building beautiful, high-performance web appli
   <p align="center">An interactive, futuristic platform showcasing creative projects, collaborations, and tech experiments. Built with Next.js and a focus on immersive UI/UX.</p>
   <p align="center">
     <a href="https://github.com/whatsupsumit/The-Nexus" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Code-00FF00?style=for-the-badge&logo=github&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/GitHub-View%20Code-FF3131?style=for-the-badge&logo=github&logoColor=A020F0" />
     </a>
     <a href="https://iamnexus.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-FF3131?style=for-the-badge&logo=vercel&logoColor=00FF00" />
+      <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-A020F0?style=for-the-badge&logo=vercel&logoColor=FF3131" />
     </a>
   </p>
 </td>
@@ -65,10 +69,10 @@ A passionate developer focused on building beautiful, high-performance web appli
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Sumit's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A020F0&title_color=FF3131&text_color=c9d1d9&bg_color=0d1117" alt="Sumit's GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9" alt="Sumit's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=A020F0" alt="Sumit's Top Languages" />
       </td>
     </tr>
   </table>
@@ -78,10 +82,10 @@ A passionate developer focused on building beautiful, high-performance web appli
 
 <div align="center">
 <a href="https://linkedin.com/in/sumitkumarrrr">
-<img src="https://img.shields.io/badge/LinkedIn-NeonGreen+Red-%23000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/LinkedIn-RedOctober+NeonPurple-%23000000?style=for-the-badge&logo=linkedin&logoColor=A020F0" />
 </a>
 
 <a href="mailto:sksumitboss123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Via+NeonGreenRed-%23000000?style=for-the-badge&logo=gmail&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Email-Via+RedOctober+NeonPurple-%23000000?style=for-the-badge&logo=gmail&logoColor=FF3131" />
 </a>
 </div>
