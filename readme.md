@@ -4,11 +4,9 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/whatsupsumit">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF3131,100:A020F0&height=55&section=header&text=Frontend%20Sorcerer&fontColor=ffffff&fontSize=28" alt="Waving Header" />
-  </a>
-</div>
+<p align=center>
+<img width="200" height="200" src="https://media1.tenor.com/m/TuupEKBD5uYAAAAC/ttvshiique.gif">
+</p>
 
 <div align="center">
 "A defeat when you weren't at your best doesn't count. That was just an unfair fight."  -Mr Sumo 
@@ -16,12 +14,27 @@
 
 ---
 
-### ⚙️ Tech Arsenal — Tools I Love
+## 🔎 About Me 🔎
+
+<h3 align="center"> 🚀 <i> Building Digital Experiences </i> 💻 </h3>
+
+<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2025/10/hocus-pocus-icegif-1.gif">
+
+🔥 <b> I'm a Full-Stack Developer, turning ideas into powerful applications. </b>
+
+🚀 <b> Passionate about creating scalable solutions with robust System Design. </b>
+
+🐍 <b> Building powerful backends with Python and Django. </b>
+
+☁️ <b> Diving into DevOps and containerizing applications with Docker. </b>
+
+🤖 <b> I love automating the web using Selenium. </b>
+
+💡 <b> Always curious, always coding, and always improving. </b>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,flutter,docker,aws,figma,redux,firebase,git&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,django,docker,selenium,aws,redux,firebase,git&theme=dark&perline=7" />
 </div>
-
 ---
 
 ### 🚀 Featured Projects – Designed to Shine
