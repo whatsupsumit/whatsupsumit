@@ -5,7 +5,7 @@
 </div>
 
 <p align=center>
-<img width="200" height="200" src="https://media1.tenor.com/m/TuupEKBD5uYAAAAC/ttvshiique.gif">
+<img width="400" height="200" src="https://media1.tenor.com/m/TuupEKBD5uYAAAAC/ttvshiique.gif">
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 <h3 align="center"> 🚀 <i> Building Digital Experiences </i> 💻 </h3>
 
-<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2025/10/hocus-pocus-icegif-1.gif">
+<img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/rq4G_6wWGqUAAAAC/miss-you-tom-and-jerry.gif">
 
 🔥 <b> I'm a Full-Stack Developer, turning ideas into powerful applications. </b>
 
