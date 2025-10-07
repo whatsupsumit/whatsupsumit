@@ -12,13 +12,12 @@
 "A defeat when you weren't at your best doesn't count. That was just an unfair fight."  -Mr Sumo 
 </div>
 
----
 
 ## 🔎 About Me 🔎
 
 <h3 align="center"> 🚀 <i> Building Digital Experiences </i> 💻 </h3>
 
-<img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/rq4G_6wWGqUAAAAC/miss-you-tom-and-jerry.gif">
+<img height="200" width="400" alt="GIF" align="right" src="https://media1.tenor.com/m/rq4G_6wWGqUAAAAC/miss-you-tom-and-jerry.gif">
 
 🔥 <b> I'm a Full-Stack Developer, turning ideas into powerful applications. </b>
 
@@ -29,13 +28,10 @@
 ☁️ <b> Diving into DevOps and containerizing applications with Docker. </b>
 
 🤖 <b> I love automating the web using Selenium. </b>
-
-💡 <b> Always curious, always coding, and always improving. </b>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,django,docker,selenium,aws,redux,firebase,git&theme=dark&perline=7" />
 </div>
----
+
 
 ### 🚀 Featured Projects – Designed to Shine
 
@@ -86,12 +82,10 @@
 </div>
 
 ### 🌐 Let’s Connect & Collaborate
-
 <div align="center">
 <a href="https://linkedin.com/in/sumitkumarrrr">
 <img src="https://img.shields.io/badge/LinkedIn-RedOctober+NeonPurple-%23000000?style=for-the-badge&logo=linkedin&logoColor=A020F0" />
 </a>
-
 <a href="mailto:sksumitboss123@gmail.com">
 <img src="https://img.shields.io/badge/Email-Via+RedOctober+NeonPurple-%23000000?style=for-the-badge&logo=gmail&logoColor=FF3131" />
 </a>
