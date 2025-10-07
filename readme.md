@@ -5,7 +5,7 @@
 </div>
 
 <p align=center>
-<img width="400" height="200" src="https://media1.tenor.com/m/TuupEKBD5uYAAAAC/ttvshiique.gif">
+<img width="400" height="180" src="https://media1.tenor.com/m/TuupEKBD5uYAAAAC/ttvshiique.gif">
 </p>
 
 <div align="center">
