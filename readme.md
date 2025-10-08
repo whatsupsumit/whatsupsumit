@@ -76,8 +76,3 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=A020F0&center=true&vCenter=true&width=650&lines=Thank+You+For+Visiting+💖;Let's+Build+Something+Magical+Together+🚀" alt="Footer Typing SVG" />
-</div>
