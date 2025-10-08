@@ -83,5 +83,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20,21&height=120&section=footer&text=Thanks%20for%20visiting!%20💖&fontSize=24&fontColor=white&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,34,74,104,140,180&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%96&fontSize=24&fontColor=white&animation=twinkling"/>
 </div>
