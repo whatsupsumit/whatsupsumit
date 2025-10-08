@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF3131&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Fullstack+🧙‍♂️+%7C+DevOps+🐲+|+System+Design+🤕;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF3131&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Full++Stack+🧙‍♂️+%7C+DevOps+🐲+|+System+Design+🤕;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
 
 </div>
 
