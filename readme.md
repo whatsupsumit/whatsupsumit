@@ -31,40 +31,46 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,django,docker,selenium,aws,redux,firebase,git&theme=dark&perline=7" />
 </div>
 
----
+## 🏆 Achievements & GitHub Stats 🌟
 
-## 🏆 Achievements & Badges 🧿  
-
-<div align="center">  
-  <img src="https://holopin.me/whatsupsumit" alt="whatsupsumit's Holopin Badges" width="600"/>
-  
-  <h3>🌟 Hacktoberfest & Open Source Flair</h3>
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-FF3131?style=for-the-badge&logo=hackthebox&logoColor=A020F0" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%23A020F0?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Love%20to%20Collaborate-%23FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
-  
-  <br><br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
-</div>
-
-### 📊 GitHub Stats – Built With Passion
 <div align="center">
-  <h3>📊 My GitHub Stats</h3>
-  <p><i>Continuously learning and growing one commit at a time!</i></p>
-  
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A020F0&title_color=FF3131&text_color=c9d1d9&bg_color=0d1117" alt="Sumit's GitHub Stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupsumit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3131&text_color=A020F0" alt="Sumit's Top Languages" />
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+<!-- Left Side: Badges -->
+<td align="center" width="60%">
+
+<!-- 🔰 Featured Badges -->
+<div>
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-FF3131?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" height="40"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%230d1117?style=for-the-badge&logo=github&logoColor=A020F0&labelColor=0d1117" height="40"/>
 </div>
 
----
+<br>
+
+<!-- 🧩 Holopin Badge Board -->
+<img src="https://holopin.me/whatsupsumit" alt="whatsupsumit's Holopin Badges" width="500" height="500"/>
+
+</td>
+
+<!-- Right Side: GitHub Stats -->
+<td align="center" width="40%">
+  
+<h3>💻 GitHub Stats</h3>
+<p><i>Fuelled by caffeine ☕ and curiosity 💡</i></p>
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A020F0&title_color=FF3131&text_color=c9d1d9&bg_color=0d1117" width="500"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
 
 ### 🌐 Let’s Connect & Collaborate 🤝
 <div align="center">
