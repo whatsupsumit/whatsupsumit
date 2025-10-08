@@ -81,6 +81,17 @@
   </table>
 </div>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
+
+### 🏆 My Trophies & Badges
+
+<div align="center">
+  <br>
+  <img src="https://holopin.me/whatsupsumit" alt="whatsupsumit's Holopin" />
+</div>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/bar.gif" width="100%" height="15" />
+
 ### 🌐 Let’s Connect & Collaborate
 <div align="center">
 <a href="https://linkedin.com/in/sumitkumarrrr">
