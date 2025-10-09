@@ -19,7 +19,7 @@
 
 <h3 align="center"> 🚀 <i> Building Digital Experiences </i> 💻 </h3>
 
-<img height="200" width="400" alt="GIF" align="right" src="https://media1.tenor.com/m/rq4G_6wWGqUAAAAC/miss-you-tom-and-jerry.gif">
+<img height="200" width="400" alt="GIF" align="right" src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif">
 
 🔥 <b> I'm a Full-Stack Developer, turning ideas into powerful applications. </b>  
 🚀 <b> Passionate about creating scalable solutions with robust System Design. </b>  
