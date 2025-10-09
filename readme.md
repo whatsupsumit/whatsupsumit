@@ -24,7 +24,7 @@
 🔥 <b> I'm a Full-Stack Developer, turning ideas into powerful applications. </b>  
 🚀 <b> Passionate about creating scalable solutions with robust System Design. </b>  
 🐍 <b> Building powerful backends with Python and Django. </b>  
-☁️ <b> Diving into DevOps and containerizing applications with Docker. </b>  
+☁️ <b> recently Dived into DevOps🫡....currently drowning😅. </b>  
 🤖 <b> I love automating the web using Selenium. </b>
 
 <div align="center">
