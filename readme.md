@@ -13,9 +13,7 @@
   <br>– <b>Mr. Sumo 🥋</b>
 </div>
 
----
-
-## 🔎 About Me 🔎
+<h2 align="center"> ## 🔎 About Me 🔎 </h2>
 
 <h3 align="center"> 🚀 <i> Building Digital Experiences </i> 💻 </h3>
 
@@ -31,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,django,docker,selenium,aws,redux,firebase,git&theme=dark&perline=7" />
 </div>
 
-## 🏆 Achievements & GitHub Stats 🌟
+<h2 align="center">## 🏆 Achievements & GitHub Stats 🌟</h2>
 
 <div align="center">
 
@@ -72,7 +70,7 @@
 
 
 
-### 🌐 Let’s Connect & Collaborate 🤝
+<h2 align="center">### 🌐 Let’s Connect & Collaborate 🤝</h2>
 <div align="center">
   <a href="https://linkedin.com/in/sumitkumarrrr">
     <img src="https://img.shields.io/badge/LinkedIn-RedOctober+NeonPurple-%23000000?style=for-the-badge&logo=linkedin&logoColor=A020F0" />
