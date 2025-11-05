@@ -37,8 +37,9 @@
 
 <h3 align="center"> 🧨 <i> Building Digital Experiences </i> 🐋 </h3>
 
-<img height="200" width="400" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Robotic Developer GIF">
+<img height="200" width="400" alt="GIF" align="right" src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif">
  <!-- src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif -->
+ <!-- src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Robotic Developer GIF -->
 🔥 <b> I'm a Full-Stack Developer, turning ideas into powerful applications. </b>  
 🚀 <b> Passionate about creating scalable solutions with robust System Design. </b>  
 🐍 <b> Building powerful backends with Python and Django. </b>  
