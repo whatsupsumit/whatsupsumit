@@ -1,6 +1,9 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF3131&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Sumit+Kumar;Full++Stack+🧙‍♂️+%7C+DevOps+🐲+|+System+Design+🤕;Crafting+Code+That+Feels+Like+Magic+🌠" alt="Typing SVG" />
+ <h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=FF005D&center=true&vCenter=true&width=600&gradient=F50057,F200FF&lines=%3E%3E+ACCESS+GRANTED+%3C%3C;%E2%96%88+SUMIT+KUMAR+%E2%96%88;FULL+STACK+%7C+DEVOPS+%7C+SYSDESIGN;%F0%9F%A4%96+DEVELOPER.EXE+RUNNING..." alt="Robotic Typing SVG" />
+
+</h1>
 
 </div>
 
@@ -34,8 +37,8 @@
 
 <h3 align="center"> 🧨 <i> Building Digital Experiences </i> 🐋 </h3>
 
-<img height="200" width="400" alt="GIF" align="right" src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif">
-
+<img height="200" width="400" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Robotic Developer GIF">
+ <!-- src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif -->
 🔥 <b> I'm a Full-Stack Developer, turning ideas into powerful applications. </b>  
 🚀 <b> Passionate about creating scalable solutions with robust System Design. </b>  
 🐍 <b> Building powerful backends with Python and Django. </b>  
