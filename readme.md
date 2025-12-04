@@ -19,8 +19,8 @@
     </td>
     <td align="center" width="50%">
       <h3>😎 GitHub Stats</h3>
-      <img 
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight" 
+     <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whatsupsumit&theme=tokyonight&v=2025" 
         width="450"
         alt="Sumit's GitHub Stats">
     </td>
