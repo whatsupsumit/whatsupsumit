@@ -7,24 +7,23 @@
 
 </div>
 
-<!-- 🧩 60-40 Split Layout Section -->
 <table align="center" width="100%">
   <tr>
-    <!-- Left: GIF -->
     <td align="center" width="50%">
       <h3>🤕 Poor Me</h3>
-      <img width="400" height="180" src="https://media1.tenor.com/m/TuupEKBD5uYAAAAC/ttvshiique.gif" alt="Developer GIF">
+      <img 
+        src="https://media1.tenor.com/m/TuupEKBD5uYAAAAC/ttvshiique.gif" 
+        width="400" 
+        height="180" 
+        alt="Developer GIF">
     </td>
-
-
-<td align="center" width="50%">
-  <h3>😎 GitHub Stats</h3>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A020F0&title_color=FF3131&text_color=c9d1d9&bg_color=0d1117" 
-    alt="Sumit's GitHub Stats" 
-    width="450"
-  />
-</td>
+    <td align="center" width="50%">
+      <h3>😎 GitHub Stats</h3>
+      <img 
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whatsupsumit&show_icons=true&theme=tokyonight" 
+        width="450"
+        alt="Sumit's GitHub Stats">
+    </td>
   </tr>
 </table>
 
