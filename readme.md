@@ -1,10 +1,10 @@
 <div align="center">
-
- <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=FF005D&center=true&vCenter=true&width=600&gradient=F50057,F200FF&lines=%3E%3E+ACCESS+GRANTED+%3C%3C;%E2%96%88+SUMIT+KUMAR+%E2%96%88;FULL+STACK+%7C+DEVOPS+%7C+SYSDESIGN;%F0%9F%A4%96+DEVELOPER.EXE+RUNNING..." alt="Robotic Typing SVG" />
-
+<h1>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=FF005D&center=true&vCenter=true&width=820&gradient=F50057,F200FF&lines=%3E%3E+ACCESS+GRANTED+%3C%3C;%E2%96%88+SUMIT+KUMAR+%E2%96%88;FULL+STACK+%7C+DEVOPS+%7C+SYSTEM+DESIGN;%F0%9F%A4%96+DEVELOPER.EXE+RUNNING..."
+    alt="Robotic Typing SVG"
+  />
 </h1>
-
 </div>
 
 <table align="center" width="100%">
@@ -20,7 +20,7 @@
     <td align="center" width="50%">
       <h3>😎 GitHub Stats</h3>
      <img 
-        src="https://github-readme-stats.vercel.app/api?username=whatsupsumit" 
+        src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&bg_color=0d1117&title_color=c71585&text_color=e6e6fa&icon_color=ff4d6d&hide_border=true" 
         width="450"
         alt="Sumit's GitHub Stats">
     </td>
