@@ -20,7 +20,7 @@
     <td align="center" width="50%">
       <h3>😎 GitHub Stats</h3>
      <img 
-        src="https://github-readme-stats.vercel.app/api?username=whatsupsumit&bg_color=0d1117&title_color=c71585&text_color=e6e6fa&icon_color=ff4d6d&hide_border=true" 
+        src="https://github-readme-stats-fast.vercel.app/api?username=whatsupsumit&show=prs_merged_percentage&show_icons=true&bg_color=00000000&)" 
         width="450"
         alt="Sumit's GitHub Stats">
     </td>
